@@ -10,7 +10,7 @@ namespace HackerRankTest
             ConsoleHelper.AddOption("Big Sum", VeryBigSum.Execute);
             ConsoleHelper.AddOption("Diagonal Difference", DiagonalDifference.Execute);
             ConsoleHelper.AddOption("Plus Minus", PlusMinus.Execute);
-
+            ConsoleHelper.AddOption("Staircase", Staircase.Execute);
             ConsoleHelper.EnterTheLoop();
         }
     }
