@@ -11,6 +11,7 @@ namespace HackerRankTest
             ConsoleHelper.AddOption("Diagonal Difference", DiagonalDifference.Execute);
             ConsoleHelper.AddOption("Plus Minus", PlusMinus.Execute);
             ConsoleHelper.AddOption("Staircase", Staircase.Execute);
+            ConsoleHelper.AddOption("Mini-MaxSum", MiniMaxSum.Execute);
             ConsoleHelper.EnterTheLoop();
         }
     }
