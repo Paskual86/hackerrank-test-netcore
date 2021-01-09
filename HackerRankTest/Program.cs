@@ -14,6 +14,8 @@ namespace HackerRankTest
             ConsoleHelper.AddOption("Mini-MaxSum", MiniMaxSum.Execute);
             ConsoleHelper.AddOption("Birthday Cake Candles", BirthdayCakeCandles.Execute);
             ConsoleHelper.AddOption("Designer PDF Viewer", DesignerPDFViewer.Execute);
+            ConsoleHelper.AddOption("Fizz Buzz", FizzBuzz.Execute);
+            ConsoleHelper.AddOption("UserName Changes", UserNameChanges.Execute);
             ConsoleHelper.EnterTheLoop();
         }
     }
