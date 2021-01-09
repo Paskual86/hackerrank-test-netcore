@@ -13,6 +13,7 @@ namespace HackerRankTest
             ConsoleHelper.AddOption("Staircase", Staircase.Execute);
             ConsoleHelper.AddOption("Mini-MaxSum", MiniMaxSum.Execute);
             ConsoleHelper.AddOption("Birthday Cake Candles", BirthdayCakeCandles.Execute);
+            ConsoleHelper.AddOption("Designer PDF Viewer", DesignerPDFViewer.Execute);
             ConsoleHelper.EnterTheLoop();
         }
     }
