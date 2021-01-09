@@ -16,6 +16,7 @@ namespace HackerRankTest
             ConsoleHelper.AddOption("Designer PDF Viewer", DesignerPDFViewer.Execute);
             ConsoleHelper.AddOption("Fizz Buzz", FizzBuzz.Execute);
             ConsoleHelper.AddOption("UserName Changes", UserNameChanges.Execute);
+            ConsoleHelper.AddOption("Sales By Match", SalesByMatch.Execute);
             ConsoleHelper.EnterTheLoop();
         }
     }
