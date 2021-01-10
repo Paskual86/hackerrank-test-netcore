@@ -19,6 +19,7 @@ namespace HackerRankTest
             ConsoleHelper.AddOption("Sales By Match", SalesByMatch.Execute);
             ConsoleHelper.AddOption("Counting Valleys", CountingValleys.Execute);
             ConsoleHelper.AddOption("Jumping On Clouds", JumpingOnClouds.Execute);
+            ConsoleHelper.AddOption("Repeated String", RepeatedString.Execute);
 
             ConsoleHelper.EnterTheLoop();
         }
