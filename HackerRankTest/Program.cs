@@ -18,8 +18,8 @@ namespace HackerRankTest
             ConsoleHelper.AddOption("UserName Changes", UserNameChanges.Execute);
             ConsoleHelper.AddOption("Sales By Match", SalesByMatch.Execute);
             ConsoleHelper.AddOption("Counting Valleys", CountingValleys.Execute);
+            ConsoleHelper.AddOption("Jumping On Clouds", JumpingOnClouds.Execute);
 
-            
             ConsoleHelper.EnterTheLoop();
         }
     }
