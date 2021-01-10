@@ -22,6 +22,7 @@ namespace HackerRankTest
             ConsoleHelper.AddOption("Repeated String", RepeatedString.Execute);
             ConsoleHelper.AddOption("Two D Array DS", TwoDArrayDS.Execute);
 
+            ConsoleHelper.AddOption("Arrays: Left Rotation", LeftRotation.Execute);
             ConsoleHelper.EnterTheLoop();
         }
     }
