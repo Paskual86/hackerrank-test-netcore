@@ -17,6 +17,9 @@ namespace HackerRankTest
             ConsoleHelper.AddOption("Fizz Buzz", FizzBuzz.Execute);
             ConsoleHelper.AddOption("UserName Changes", UserNameChanges.Execute);
             ConsoleHelper.AddOption("Sales By Match", SalesByMatch.Execute);
+            ConsoleHelper.AddOption("Counting Valleys", CountingValleys.Execute);
+
+            
             ConsoleHelper.EnterTheLoop();
         }
     }
