@@ -23,6 +23,8 @@ namespace HackerRankTest
             ConsoleHelper.AddOption("Two D Array DS", TwoDArrayDS.Execute);
             ConsoleHelper.AddOption("Arrays: Left Rotation", LeftRotation.Execute);
             ConsoleHelper.AddOption("New Year Chaos", NewYearChaos.Execute);
+            ConsoleHelper.AddOption("Minimun Swap 2", MinimunSwap2.Execute);
+
             ConsoleHelper.EnterTheLoop();
         }
     }
