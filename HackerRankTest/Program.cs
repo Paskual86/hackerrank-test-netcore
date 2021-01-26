@@ -26,6 +26,8 @@ namespace HackerRankTest
             ConsoleHelper.AddOption("Minimun Swap 2", MinimunSwap2.Execute);
             ConsoleHelper.AddOption("Array Manipulation", ArrayManipulation.Execute);
 
+            ConsoleHelper.AddOption("Data Type Linked List", DataTypeLinkedList.Execute);
+
             ConsoleHelper.EnterTheLoop();
         }
     }
